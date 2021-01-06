@@ -1,11 +1,8 @@
-.name-color{
-      color: orange;
-}
 .background-color1{
-            color: rgba(0, 0, 0, 0.808)
+   color: rgba(0, 0, 0, 0.808);
 }
 .background-color2{
-            color: white ;
+  color: white;
 }
 .name-color{
     color: orange;
@@ -13,6 +10,15 @@
 .text-alignment{
     text-align: center;
 }
-
-
-
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left : 5%;
+    padding-left : 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.full-width{
+    width: 100%;
+}
